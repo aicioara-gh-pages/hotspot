@@ -1,3 +1,7 @@
-# Boilerplate
+# Hotspot
 
-This is a repository containing boilerplate code to be copy pasted
+Captive Portal Login Redirect
+
+## Demo
+
+http://hotspot.ninja/
